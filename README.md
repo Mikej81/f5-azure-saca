@@ -1,5 +1,7 @@
 # F5 & Azure Secure Cloud Computing Architecture
 
+Important: This fork is being archived, please get all updates from [https://github.com/f5devcentral/f5-azure-saca](https://github.com/f5devcentral/f5-azure-saca).
+
 <!--TOC-->
 
 - [F5 & Azure Secure Cloud Computing Architecture](#f5--azure-secure-cloud-computing-architecture)
